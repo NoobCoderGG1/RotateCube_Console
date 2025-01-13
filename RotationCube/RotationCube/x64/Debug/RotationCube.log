@@ -1,0 +1,9 @@
+﻿  RotationCube.cpp
+C:\Users\Bob\source\repos\RotationCube\RotationCube.cpp(75,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Bob\source\repos\RotationCube\RotationCube.cpp(115,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bob\source\repos\RotationCube\RotationCube.cpp(115,26): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bob\source\repos\RotationCube\RotationCube.cpp(116,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bob\source\repos\RotationCube\RotationCube.cpp(116,26): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bob\source\repos\RotationCube\RotationCube.cpp(147,45): warning C4244: =: преобразование "float" в "SHORT", возможна потеря данных
+C:\Users\Bob\source\repos\RotationCube\RotationCube.cpp(148,43): warning C4244: =: преобразование "float" в "SHORT", возможна потеря данных
+  RotationCube.vcxproj -> C:\Users\Bob\source\repos\RotationCube\x64\Debug\RotationCube.exe
